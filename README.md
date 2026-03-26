@@ -1,4 +1,4 @@
-# Deepak Chauhan - Modern Portfolio
+# Mohit Choudhary - Modern Portfolio
 
 <div align="center">
 
@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
   </div>
 
-  <h3 align="center">Full Stack Developer | B.Tech CSE Student at CGC Landran</h3>
+  <h3 align="center">Full Stack Developer | BCA Student at MCM DAV College Kangra</h3>
 
    <div align="center">
      Building scalable web applications with a focus on performance, modern UI/UX, and seamless user experiences.
@@ -28,7 +28,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Welcome to my professional portfolio! I am **Deepak Chauhan**, a passionate Full Stack Developer based in Tosham, Haryana. I am currently pursuing my B.Tech in Computer Science at CGC Landran (2021-2025). 
+Welcome to my professional portfolio! I am **Mohit Choudhary**, a passionate Full Stack Developer based in Kangra, Himachal Pradesh. I am currently pursuing my BCA  at MCM DAV College Kangra (2023-2026). 
 
 This portfolio is built with Next.js for high-performance rendering, Three.js for interactive 3D elements, and Framer Motion for smooth, premium animations. It showcases my journey, expertise in modern web technologies, and the projects I've built.
 
@@ -65,8 +65,8 @@ Follow these steps to set up the project locally.
 **Cloning & Installation**
 
 ```bash
-git clone https://github.com/Dissu33/DeepakChauhan-Portfolio.git
-cd DeepakChauhan-Portfolio
+git clone https://github.com/Mohit-04R/Mohit-Portfolio.git
+cd Mohit -Portfolio
 npm install
 ```
 
@@ -81,9 +81,8 @@ Open [http://localhost:3000](http://localhost:3000) to view the portfolio.
 
 Let's connect! You can find me on the following platforms:
 
-- **GitHub**: [Dissu33](https://github.com/Dissu33)
-- **LinkedIn**: [Deepak Chauhan](https://www.linkedin.com/in/deepak-chauhan-a67a4a396)
-- **Instagram**: [@dpx.k](https://www.instagram.com/dpx.k)
+- **GitHub**: [Mohit-04R](https://github.com/Mohit-04R)
+- **LinkedIn**: [Mohit Choudhary](https://www.linkedin.com/in/mohit-choudhary-3145aa2b2/)
 - **Email**: [Contact Me](#contact) (via the portfolio)
 
 ## <a name="projects">🚀 Featured Projects</a>
@@ -97,5 +96,5 @@ Check out some of my work:
 ---
 
 <div align="center">
-  <p>© 2024 Deepak Chauhan. Built with ❤️ and Next.js</p>
+  <p>© 2024 Mohit Choudhary. Built with ❤️ and Next.js</p>
 </div>
