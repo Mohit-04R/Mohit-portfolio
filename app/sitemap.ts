@@ -3,10 +3,10 @@ import { MetadataRoute } from 'next'
 export default function sitemap(): MetadataRoute.Sitemap {
   return [
     {
-      url: 'https://deepak-chauhan-portfolio-flax.vercel.app',
+      url: "https://mohit-portfolio-inky.vercel.app/",
       lastModified: new Date(),
-      changeFrequency: 'monthly',
+      changeFrequency: "monthly",
       priority: 1,
     },
-  ]
+  ];
 }

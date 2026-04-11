@@ -87,7 +87,7 @@ export const projects = [
     img: "/image screen.png",
     bg: "",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
-    link: "https://deepak-chauhan-portfolio-flax.vercel.app/",
+    link: "https://mohit-portfolio-inky.vercel.app/",
   },
   {
     id: 3,

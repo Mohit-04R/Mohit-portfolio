@@ -24,7 +24,7 @@ const Footer = () => {
           Open to opportunities and collaborations.
         </p>
         <div className="flex gap-4 flex-wrap justify-center">
-          <a href="mailto:roymohit209@gmail.com">
+          <a href="roymohit209@gmail.com">
             <MagicButton
               title="Send Email"
               icon={<FaLocationArrow />}

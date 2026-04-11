@@ -28,7 +28,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Welcome to my professional portfolio! I am **Mohit Choudhary**, a passionate Full Stack Developer based in Kangra, Himachal Pradesh. I am currently pursuing my BCA  at MCM DAV College Kangra (2023-2026). 
+Welcome to my professional portfolio! I am **Mohit Choudhary**, a passionate Full Stack Developer based in Kangra, Himachal Pradesh. I am currently pursuing my BCA at MCM DAV College Kangra (2023-2026).
 
 This portfolio is built with Next.js for high-performance rendering, Three.js for interactive 3D elements, and Framer Motion for smooth, premium animations. It showcases my journey, expertise in modern web technologies, and the projects I've built.
 
@@ -75,7 +75,8 @@ npm install
 ```bash
 npm run dev
 ```
-Open [http://localhost:3000](http://localhost:3000) to view the portfolio.
+
+Open (https://mohit-portfolio-inky.vercel.app/) to view the portfolio.
 
 ## <a name="social-media">🔗 Social Media Handles</a>
 

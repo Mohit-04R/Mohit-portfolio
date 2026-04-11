@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     title: "Mohit Choudhary | Frontend Developer Portfolio",
     description:
       "Mohit Choudhary- Frontend Developer from Kangra, Himachal Pradesh. Passionate about building scalable web applications. Student at MCM DAV College Kangra.",
-    url: "https://deepak-chauhan-portfolio-flax.vercel.app/",
+    url: "https://mohit-portfolio-inky.vercel.app/",
     siteName: "Mohit Choudhary Portfolio",
     images: [
       {
@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     images: ["/portfolio.png"],
   },
   alternates: {
-    canonical: "https://deepak-chauhan-portfolio-flax.vercel.app/",
+    canonical: "https://mohit-portfolio-inky.vercel.app/",
   },
 };
 
@@ -69,8 +69,8 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "Person",
-              name: "Deepak Chauhan",
-              url: "https://deepak-chauhan-portfolio-flax.vercel.app/",
+              name: "Mohit Choudhary",
+              url: "https://mohit-portfolio-inky.vercel.app/",
               jobTitle: "Full Stack Developer",
               alumniOf: {
                 "@type": "CollegeOrUniversity",
@@ -86,7 +86,7 @@ export default function RootLayout({
                 "https://github.com/Mohit-04R",
                 "https://www.linkedin.com/in/mohit-choudhary-3145aa2b2/",
                 "https://www.instagram.com/mohit_choudhary_0.1/",
-                "https://deepak-chauhan-portfolio-flax.vercel.app/",
+                "https://mohit-portfolio-inky.vercel.app/",
               ],
             }),
           }}

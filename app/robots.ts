@@ -3,10 +3,10 @@ import { MetadataRoute } from 'next'
 export default function robots(): MetadataRoute.Robots {
   return {
     rules: {
-      userAgent: '*',
-      allow: '/',
-      disallow: '/private/',
+      userAgent: "*",
+      allow: "/",
+      disallow: "/private/",
     },
-    sitemap: 'https://deepak-chauhan-portfolio-flax.vercel.app/sitemap.xml',
-  }
+    sitemap: "https://mohit-portfolio-inky.vercel.app/sitemap.xml",
+  };
 }
